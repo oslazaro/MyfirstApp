@@ -35,7 +35,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="48dp"
-        android:text="ESCRIBE LO QUE QUIERASSSSS"
+        android:text="ESCRIBE LO QUE QUIERASS333333333333333333333333SSS"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
